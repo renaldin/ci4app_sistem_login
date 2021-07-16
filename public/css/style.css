@@ -1,0 +1,20 @@
+.sampul {
+  width: 80px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.detailsampul {
+  width: 180px;
+}
+
+.nav {
+  background-color: darkblue;
+}
+
+.title {
+  background-color: darkblue;
+  color: white;
+}
